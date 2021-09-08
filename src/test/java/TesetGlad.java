@@ -12,4 +12,19 @@ public void  twer(){
         open("https://www.google.com/");
         closeWebDriver();
     }
+    @Test
+    public void  twer2(){
+
+
+        open("https://www.google.com/");
+        closeWebDriver();
+    }
+
+    @Test
+    public void  twer3(){
+
+
+        open("https://www.google.com/");
+        closeWebDriver();
+    }
 }
